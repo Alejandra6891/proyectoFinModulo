@@ -1,0 +1,21 @@
+.form{
+  position:relative;
+  width:450px;
+  height:550px;
+  padding-left:20px;
+  padding-right:10px;
+  background-color: silver;
+  border-radius:50px;
+  border: orange 2px solid;
+  margin:auto;
+}
+label{
+  margin:16px 20px;
+  font-size: 16px;
+  color:black;
+  font-family: fantasy;
+}
+input[type=text],[type=nombre],[type=date]{
+  font-family: cursive;
+  border: orange 2px solid;
+}
